@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.3152524
+layout_spectrum: 0.6706623
+typography_spectrum: 0.07300971
 color:
-  saturation: 0.5891514
+  saturation: 0.9245235
+  lightness: 0.5713016
   brandStrength: 0.8501093
-  lightness: 0.2851772
+  rhythmicContrast: 0.3665263
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.8716434
-layout_spectrum: 1
 name: MarieArnold
